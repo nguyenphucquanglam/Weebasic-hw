@@ -1,0 +1,15 @@
+* {
+  color: white;
+}
+
+body {
+  background-color: blueviolet;
+}
+.left {
+  width: 50%;
+  float: left;
+}
+.right {
+  width: 60%;
+  float: left;
+}
