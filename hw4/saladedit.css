@@ -1,0 +1,20 @@
+* {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.colour {
+  color: grey;
+}
+.font-size {
+  color: limegreen;
+  font-weight: lighter;
+}
+.spacing {
+  font-size: larger;
+}
+.cyka {
+  font-weight: lighter;
+}
+.blyat {
+  list-style: square;
+}
